@@ -1,0 +1,10 @@
+{
+    "acc_id" : 0,
+    "parent_id" : false,
+    "tier" : 0,
+    "default_name": "Ledger",
+    "tags" : [],
+    "currency" : "IDR",
+    "Balance" : false,
+    "last_update": "timedate"
+}
