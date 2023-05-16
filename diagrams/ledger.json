@@ -1,6 +1,7 @@
 {
     "acc_id" : 0,
     "parent_id" : false,
+    "children" : true,
     "tier" : 0,
     "default_name": "Ledger",
     "tags" : [],
