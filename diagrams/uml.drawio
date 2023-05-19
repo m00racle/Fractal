@@ -1,0 +1,142 @@
+<mxfile host="65bd71144e">
+    <diagram id="URqiWdDYkXmlY8Zy6wf3" name="Page-1">
+        <mxGraphModel dx="1441" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="200" width="160" height="88" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Register new account" style="html=1;align=left;spacingLeft=4;verticalAlign=middle;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="2">
+                    <mxGeometry width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=ellipse;" vertex="1" parent="3">
+                    <mxGeometry x="1" width="20" height="16" relative="1" as="geometry">
+                        <mxPoint x="-25" y="7" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="2">
+                    <mxGeometry y="30" width="160" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="extension points" style="html=1;align=center;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="2">
+                    <mxGeometry y="38" width="160" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="- login with existin account" style="html=1;align=left;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="2">
+                    <mxGeometry y="63" width="160" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="414" width="160" height="88" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Register new company" style="html=1;align=left;spacingLeft=4;verticalAlign=middle;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="9">
+                    <mxGeometry width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="shape=ellipse;" vertex="1" parent="10">
+                    <mxGeometry x="1" width="20" height="16" relative="1" as="geometry">
+                        <mxPoint x="-25" y="7" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="9">
+                    <mxGeometry y="30" width="160" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="extension points" style="html=1;align=center;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="9">
+                    <mxGeometry y="38" width="160" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Choose Available Comp." style="html=1;align=left;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="9">
+                    <mxGeometry y="63" width="160" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+                    <mxGeometry x="780" y="404" width="230" height="88" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Create Account Structure" style="html=1;align=left;spacingLeft=4;verticalAlign=middle;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="15">
+                    <mxGeometry width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="shape=ellipse;" vertex="1" parent="16">
+                    <mxGeometry x="1" width="20" height="16" relative="1" as="geometry">
+                        <mxPoint x="-25" y="7" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="15">
+                    <mxGeometry y="30" width="230" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="extension points" style="html=1;align=center;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="15">
+                    <mxGeometry y="38" width="230" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="select template account structure" style="html=1;align=left;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="15">
+                    <mxGeometry y="63" width="230" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;" edge="1" parent="1" source="10" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="22" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="417" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="590" width="180" height="88" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Open Company account" style="html=1;align=left;spacingLeft=4;verticalAlign=middle;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="24">
+                    <mxGeometry width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="shape=ellipse;" vertex="1" parent="25">
+                    <mxGeometry x="1" width="20" height="16" relative="1" as="geometry">
+                        <mxPoint x="-25" y="7" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="24">
+                    <mxGeometry y="30" width="180" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="extension points" style="html=1;align=center;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="24">
+                    <mxGeometry y="38" width="180" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Extension point 1" style="html=1;align=left;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="24">
+                    <mxGeometry y="63" width="180" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;" edge="1" parent="1" source="14" target="25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+                    <mxGeometry x="1169" y="400" width="220" height="88" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Provides Company data" style="html=1;align=left;spacingLeft=4;verticalAlign=middle;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="31">
+                    <mxGeometry width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="shape=ellipse;" vertex="1" parent="32">
+                    <mxGeometry x="1" width="20" height="16" relative="1" as="geometry">
+                        <mxPoint x="-25" y="7" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="31">
+                    <mxGeometry y="30" width="220" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="extension points" style="html=1;align=center;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="31">
+                    <mxGeometry y="38" width="220" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Extension point 1" style="html=1;align=left;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="31">
+                    <mxGeometry y="63" width="220" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+                    <mxGeometry x="1500" y="403" width="210" height="88" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Submit Capital data" style="html=1;align=left;spacingLeft=4;verticalAlign=middle;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="37">
+                    <mxGeometry width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="shape=ellipse;" vertex="1" parent="38">
+                    <mxGeometry x="1" width="20" height="16" relative="1" as="geometry">
+                        <mxPoint x="-25" y="7" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="37">
+                    <mxGeometry y="30" width="210" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="extension points" style="html=1;align=center;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="37">
+                    <mxGeometry y="38" width="210" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Extension point 1" style="html=1;align=left;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="37">
+                    <mxGeometry y="63" width="210" height="25" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
