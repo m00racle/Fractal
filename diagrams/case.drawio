@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="w2UGb_RwOrQDCwzfykz4" name="Page-2">
-        <mxGraphModel dx="1882" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="1441" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -32,7 +32,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="heYhSuKs0WklKmJiqEw-" name="Page-3">
-        <mxGraphModel dx="3051" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="2610" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -110,13 +110,13 @@
                 <mxCell id="jf70Kcqvtlar9FnrM-hf-24" value="Liability" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1634" y="120" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-3" style="edgeStyle=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jf70Kcqvtlar9FnrM-hf-25" target="jf70Kcqvtlar9FnrM-hf-24">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-3" style="edgeStyle=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jf70Kcqvtlar9FnrM-hf-25" target="jf70Kcqvtlar9FnrM-hf-24" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="jf70Kcqvtlar9FnrM-hf-25" value="Current Liability" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1370" y="470" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-4" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jf70Kcqvtlar9FnrM-hf-26" target="jf70Kcqvtlar9FnrM-hf-24">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-4" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jf70Kcqvtlar9FnrM-hf-26" target="jf70Kcqvtlar9FnrM-hf-24" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1630" y="150" as="targetPoint"/>
                     </mxGeometry>
@@ -136,13 +136,13 @@
                 <mxCell id="jf70Kcqvtlar9FnrM-hf-30" value="&lt;span style=&quot;color: rgb(209, 213, 219); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(68, 70, 84);&quot;&gt;In accounting, accumulated depreciation is not considered an asset. Instead, it is a contra-asset account that is used to reduce the value of an asset on the balance sheet.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="-220" y="760" width="1210" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-1" style="edgeStyle=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jf70Kcqvtlar9FnrM-hf-32" target="jf70Kcqvtlar9FnrM-hf-25">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-1" style="edgeStyle=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jf70Kcqvtlar9FnrM-hf-32" target="jf70Kcqvtlar9FnrM-hf-25" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="jf70Kcqvtlar9FnrM-hf-32" value="Account Payable" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1210" y="630" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-2" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jf70Kcqvtlar9FnrM-hf-33" target="jf70Kcqvtlar9FnrM-hf-25">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-2" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jf70Kcqvtlar9FnrM-hf-33" target="jf70Kcqvtlar9FnrM-hf-25" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="jf70Kcqvtlar9FnrM-hf-33" value="Unearned Revenue" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -157,65 +157,92 @@
                 <mxCell id="jf70Kcqvtlar9FnrM-hf-36" value="Prepaid Expense" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-780" y="500" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-6" style="edgeStyle=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtX1L7ukf_RsPNeZBsFi-5" target="jf70Kcqvtlar9FnrM-hf-26">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-6" style="edgeStyle=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VtX1L7ukf_RsPNeZBsFi-5" target="jf70Kcqvtlar9FnrM-hf-26" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-5" value="Long term debt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-5" value="Long term debt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1820" y="620" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-8" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtX1L7ukf_RsPNeZBsFi-7" target="jf70Kcqvtlar9FnrM-hf-26">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-8" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VtX1L7ukf_RsPNeZBsFi-7" target="jf70Kcqvtlar9FnrM-hf-26" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-7" value="Deposit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-7" value="Deposit" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="2060" y="630" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-9" value="Equity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-9" value="Equity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="2700" y="130" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-12" style="edgeStyle=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtX1L7ukf_RsPNeZBsFi-10" target="VtX1L7ukf_RsPNeZBsFi-9">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-12" style="edgeStyle=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VtX1L7ukf_RsPNeZBsFi-10" target="VtX1L7ukf_RsPNeZBsFi-9" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-10" value="Common Stock" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-10" value="Shareholder Equity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="2450" y="330" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-13" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtX1L7ukf_RsPNeZBsFi-11" target="VtX1L7ukf_RsPNeZBsFi-9">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-13" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VtX1L7ukf_RsPNeZBsFi-11" target="VtX1L7ukf_RsPNeZBsFi-9" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-11" value="Retained Earnings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-11" value="Retained Earnings" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="2980" y="320" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-14" value="Dividen/Prive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="3200" y="490" width="120" height="60" as="geometry"/>
+                <mxCell id="j_KiAzoIWVUe4Zsn0NRp-9" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtX1L7ukf_RsPNeZBsFi-14" target="VtX1L7ukf_RsPNeZBsFi-11">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-15" value="Revenue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-14" value="Dividen/Prive" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="3170" y="500" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-15" value="Revenue" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="3930" y="60" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-18" style="edgeStyle=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtX1L7ukf_RsPNeZBsFi-16" target="VtX1L7ukf_RsPNeZBsFi-15">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-18" style="edgeStyle=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VtX1L7ukf_RsPNeZBsFi-16" target="VtX1L7ukf_RsPNeZBsFi-15" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-16" value="Operational Revenue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-16" value="Operational Revenue" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="3600" y="240" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-19" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtX1L7ukf_RsPNeZBsFi-17" target="VtX1L7ukf_RsPNeZBsFi-15">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-19" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VtX1L7ukf_RsPNeZBsFi-17" target="VtX1L7ukf_RsPNeZBsFi-15" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-17" value="Other revenues" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-17" value="Other revenues" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="4210" y="230" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-20" value="Expenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-20" value="Expenses" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="5150" y="40" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-23" style="edgeStyle=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtX1L7ukf_RsPNeZBsFi-21" target="VtX1L7ukf_RsPNeZBsFi-20">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-23" style="edgeStyle=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VtX1L7ukf_RsPNeZBsFi-21" target="VtX1L7ukf_RsPNeZBsFi-20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-21" value="Operational Expenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-21" value="Operational Expenses" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="4790" y="220" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-24" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtX1L7ukf_RsPNeZBsFi-22" target="VtX1L7ukf_RsPNeZBsFi-20">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-24" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VtX1L7ukf_RsPNeZBsFi-22" target="VtX1L7ukf_RsPNeZBsFi-20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="VtX1L7ukf_RsPNeZBsFi-22" value="Other Expenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="VtX1L7ukf_RsPNeZBsFi-22" value="Other Expenses" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="5450" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="j_KiAzoIWVUe4Zsn0NRp-2" style="edgeStyle=none;html=1;" edge="1" parent="1" source="j_KiAzoIWVUe4Zsn0NRp-1" target="jf70Kcqvtlar9FnrM-hf-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="j_KiAzoIWVUe4Zsn0NRp-1" value="martketable securities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-800" y="354" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="j_KiAzoIWVUe4Zsn0NRp-4" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="j_KiAzoIWVUe4Zsn0NRp-3" target="VtX1L7ukf_RsPNeZBsFi-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="j_KiAzoIWVUe4Zsn0NRp-3" value="common stock" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="2450" y="510" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="j_KiAzoIWVUe4Zsn0NRp-6" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="j_KiAzoIWVUe4Zsn0NRp-5" target="VtX1L7ukf_RsPNeZBsFi-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="j_KiAzoIWVUe4Zsn0NRp-5" value="Other Comprehensive Income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="2640" y="510" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="j_KiAzoIWVUe4Zsn0NRp-8" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="j_KiAzoIWVUe4Zsn0NRp-7" target="VtX1L7ukf_RsPNeZBsFi-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="j_KiAzoIWVUe4Zsn0NRp-7" value="Income Summary" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="2980" y="500" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
