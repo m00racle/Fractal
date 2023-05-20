@@ -146,3 +146,21 @@ Received a bill from Universal Utilities for the month of December, $700. Paymen
 ## Dec. 31
 Equipment rental fees earned during the second half of December amounted to $20.000, of which $15.000 was received in cash.
 
+## ADJUSMENTS
+Here are the adjustment entries:
+## Dec. 1 Rental Equipment
+The $100.000 note payable to Rent-It has annual interest rate of 6 percent.
+
+The rental equipment is being depeciated by the straight line method over a period of 8 years.
+## Dec. 1 Rents
+The advanced payment of rent on December 1 covered a period of three months
+## Dec. 4 Office Supplies
+Office supplies on hand at December 31 are estimated at $600
+## Dec. 8 Earned Revenue
+During December, the company earned $3.700 of the rental fees paid in advanced by mcNamer Construction on December 8
+## Dec. 26 Rental Equipment
+As of December 31, six days' rent on the backhoe rented to Mission Landscaping on December 26 has been earned.
+## Dec. 31 Payroll
+Salaries earned by employees since the last payroll date (December 26) amounted to $1.400 at month-end.
+## Dec. 31 Income Tax
+It is estimated that the company is subject to a combined federal and state income tax rate of 40 percent of income before taxes (total revenue minus all expenses other than income taxes). These taxes will be payable in 2012
