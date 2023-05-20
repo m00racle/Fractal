@@ -8,7 +8,7 @@ The data will be presented in JSON format like below:
     "tags" : ["tags", "record"]
 }
 ```
-## Dec. 1
+## Dec. 1: Company Registration
 Registerin new user and new company.
 One user can have many company books in one account.
 
@@ -88,3 +88,61 @@ Then the user register new company:
     }
 }
 ```
+## Dec. 1: Capital Stock
+Issued to John and Patty Driver 20.000 shares of capital stock in exchange for a total of $200.000 cash
+
+## Dec. 1: Equipment
+Purchased for $240.000 all of the equipment formerly owned by Rent-It. Paid $140.000 cash and issued a one-year note payable for $100.000. 
+The note, plus all 12-months of accrued interest, are due November 30, 2012
+
+## Dec. 1: Rent
+Paid $12.000 to Shapiro Realty as three months' advance rent on the rental yard and office formerly occupied by Rent-It.
+
+## Dec. 4
+Purchased office supplies on account from Modern Office Co., $1.000. Payment due in 30 days. \
+(These supplies are expected to last for several months; debit the Office Supplies asset account.)
+
+## Dec. 8
+Received $8.000 cash as advance payment of equipment rental from McNamer Construction Company. (Credit Unearned Rental Fees.)
+
+## Dec. 12 
+Paid salaries for the first two weeks in December, $5.200
+
+## Dec. 15
+Excluding the McNamer advance, equipment rental fees earned during the first 15 days of December amounted to $18.000, of which $12.000 was received in cash.
+
+## Dec. 17
+Purchased on account from Earth Movers, Inc., $600 i parts needed to repair a rental tractor. (Debit an expense account.) Payment is due in 10 days
+
+## Dec. 23
+Collected $2.000 of the accounts receivable recorded on December 15.
+
+## Dec. 26
+Rented a backhoe to Mission Landscaping at a price of $250 per day, to be paid when the backhoe is returned. Mission Landscaping expects to keep the backhoe for about two or three weeks.
+
+## Dec. 26
+Paid biweekly salaries, $5.200 
+
+## Dec. 27
+Paid the account payable to Earth Movers, Inc., $600
+
+## Dec. 28
+Declared a dividend of 10 cents per share, payable on January 15, 2012
+
+## Dec. 29
+Susquehanna Equipment Rentals was named, along with Mission Landscaping and Collier Construction, as a co-defendant in a $25.000 lawsuit filed on behalf of Kevin Davenport. 
+Mission Landscaping had left the rented backhoe in a fenced construction site owned by Collier Construction. 
+After working hours on December 26, Davenport had climbed the fence to play on parked construction equipment. 
+While playin on the backhoe, he fell and broke his arm. The extent of the company's legal and financial responsibility for this accident, if any, cannot be determined at this time. 
+(Note: This event does not require a journal entry at this time, but may require disclosure in notes accompanying the statements.)
+
+## Dec. 29
+Purchased a 12-month public-liability insurance policy for $9.600. This policy protects the company against liability for injuries and property damage caused by its equipment. 
+However, the policy goes into effect on January 1, 2012, and affords no coverage for the injuries sustained by Kevin Davenport on December 26.
+
+## Dec. 31
+Received a bill from Universal Utilities for the month of December, $700. Payment is due in 30 days.
+
+## Dec. 31
+Equipment rental fees earned during the second half of December amounted to $20.000, of which $15.000 was received in cash.
+
