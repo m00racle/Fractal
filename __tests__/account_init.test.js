@@ -1,4 +1,4 @@
-import { test } from "node:test";
+
 import { AccInit } from "../temp/account_init.mjs";
 
 /* 
