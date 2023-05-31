@@ -29,3 +29,10 @@ test('test_asset_account_template', () => {
    }
    );
 });
+
+test('test_wrong_id_format_throws_range_error', () => {
+    expect(() => AccInit(110111, "Kas")).toThrowError(RangeError);
+    expect(() => AccInit(110111, "Kas")).toThrowError("wrong id format");
+    expect(() => AccInit(1101, "Kas")).toThrowError(RangeError);
+    expect(() => AccInit(1101, "Kas")).toThrowError("wrong id format")
+});
