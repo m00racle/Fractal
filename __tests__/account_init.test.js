@@ -36,3 +36,17 @@ test('test_wrong_id_format_throws_range_error', () => {
     expect(() => AccInit(1101, "Kas")).toThrowError(RangeError);
     expect(() => AccInit(1101, "Kas")).toThrowError("wrong id format")
 });
+
+test('test_wrong_acc_type_throws_range_error', () =>{
+    expect(() => AccInit(91001)).toThrowError(RangeError);
+    expect(() => AccInit(91001)).toThrowError('unknown account type');
+    // expect(() => AccInit(01001)).toThrowError(RangeError); // <-- strict mode will not allow
+    // expect(() => AccInit(01001)).toThrowError('unknown account type'); <-- strict mode will not allow
+});
+
+test('test_wrong_acc_subtype_throw_range_error', () => {
+    expect(() => AccInit(50001)).toThrowError(RangeError);
+    expect(() => AccInit(50001)).toThrowError('unknown account sub type');
+    expect(() => AccInit(59001)).toThrowError(RangeError);
+    expect(() => AccInit(59001)).toThrowError('unknown account sub type');
+});
