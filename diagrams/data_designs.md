@@ -8,11 +8,22 @@ What do you need to register:
 }
 ```
 
-How about new company:
+```javascript
+user_data = {
+    user_id : 
+};
+```
+
+How about new book:
 ```json
 {
+    "id" : "", // combination of user_id and company_id
+    "set_id" :{
+        "user_id": "", // UID from google auth
+        "company_id": "" // increment last company id on user_id
+    },
     "name" : "Idekriya",
-    "type" : "CV",
+    "type" : "CV", // personal
     "address" : "Jl. Sulawesi AK 31A, Sono, Sinduadi, Mlati, Sleman",
     "country" : "Indonesia",
     "tax_id" : "44.527.922.-542.000",

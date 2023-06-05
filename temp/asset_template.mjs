@@ -47,3 +47,163 @@
 //     tags : []
 // };
 
+user_data = {
+    id : null, //UID from the firebase auth
+    email: "", // email from the firebase auth
+    country: "", // user residence country
+    phone: "+xx-xxx-xxxx-xxx", // I want to check if this is phone format
+    address: "", // user address
+    tax_id : "xx.xxx.xxx-xxx.xxx", // x is number digits I want the tax id to be formatted this way
+};
+
+book_data = {
+    id : "", // combination of: user_id-book_num in string
+    id_set : {
+        user_id : null, // user id from auth
+        book_num : null // book incremented numbering
+    },
+    user_name: "", // name of the company or personal user using this book
+    user_code: "", // Three letters to represent user
+    user_type: "", // PT, CV, Firm, UD or personal
+    start_date: new Date(), // Date which the book is created (using ),
+    business_type: "", // short description on what kind of business to record (manufacture, finance, invest, personal, general),
+    tax_id : "xx.xxx.xxx-xxx.xxx", // x is number digits I want the tax id to be formatted this way
+    currency_code: "", // currency used in the book
+};
+
+ledger = {
+    id : "", // combination of year month date and book id.
+    date: new Date(), // date of the ledger posted
+    book: user_code, // user code 
+    user_name: book_data.user_name,
+    accounts: [
+        {
+            account_id : 11001,
+            account_name : "Kas", 
+            account_type : "Aset", 
+            account_subtype : "Aset Lancar",
+            balance_side : "debit",
+            closing_type : "permanent",
+            status : 'active',
+            open_credit : 0,
+            open_debit : 0,
+            open_balance : 0,
+            close_credit : 0,
+            close_debit : 0,
+            close_balance :0,
+            tags : []
+        },
+        {
+            account_id : 11002,
+            account_name : "Piutang Usaha", 
+            account_type : "Aset", 
+            account_subtype : "Aset Lancar",
+            balance_side : "debit",
+            closing_type : "permanent",
+            status : 'active',
+            open_credit : 0,
+            open_debit : 0,
+            open_balance : 0,
+            close_credit : 0,
+            close_debit : 0,
+            close_balance :0,
+            tags : []
+        },
+        {
+            account_id : 11003,
+            account_name : "Sekuritas untuk dijual", 
+            account_type : "Aset", 
+            account_subtype : "Aset Lancar",
+            balance_side : "debit",
+            closing_type : "permanent",
+            status : 'active',
+            open_credit : 0,
+            open_debit : 0,
+            open_balance : 0,
+            close_credit : 0,
+            close_debit : 0,
+            close_balance :0,
+            tags : []
+        },
+        {
+            account_id : 11004,
+            account_name : "Sekuritas untuk Diperdagangkan", 
+            account_type : "Aset", 
+            account_subtype : "Aset Lancar",
+            balance_side : "debit",
+            closing_type : "permanent",
+            status : 'active',
+            open_credit : 0,
+            open_debit : 0,
+            open_balance : 0,
+            close_credit : 0,
+            close_debit : 0,
+            close_balance :0,
+            tags : []
+        },
+        {
+            account_id : 11005,
+            account_name : "Persediaan", 
+            account_type : "Aset", 
+            account_subtype : "Aset Lancar",
+            balance_side : "debit",
+            closing_type : "permanent",
+            status : 'active',
+            open_credit : 0,
+            open_debit : 0,
+            open_balance : 0,
+            close_credit : 0,
+            close_debit : 0,
+            close_balance :0,
+            tags : []
+        },
+        {
+            account_id : 11006,
+            account_name : "Barang Jadi", 
+            account_type : "Aset", 
+            account_subtype : "Aset Lancar",
+            balance_side : "debit",
+            closing_type : "permanent",
+            status : 'active',
+            open_credit : 0,
+            open_debit : 0,
+            open_balance : 0,
+            close_credit : 0,
+            close_debit : 0,
+            close_balance :0,
+            tags : []
+        },
+        {
+            account_id : 11007,
+            account_name : "Beban belum Diakui (deferal)", 
+            account_type : "Aset", 
+            account_subtype : "Aset Lancar",
+            balance_side : "debit",
+            closing_type : "permanent",
+            status : 'active',
+            open_credit : 0,
+            open_debit : 0,
+            open_balance : 0,
+            close_credit : 0,
+            close_debit : 0,
+            close_balance :0,
+            tags : []
+        },
+        {
+            account_id : 12001,
+            account_name : "Sekuritas hingga Jatuh Tempo", 
+            account_type : "Aset", 
+            account_subtype : "Aset Tetap",
+            balance_side : "debit",
+            closing_type : "permanent",
+            status : 'active',
+            open_credit : 0,
+            open_debit : 0,
+            open_balance : 0,
+            close_credit : 0,
+            close_debit : 0,
+            close_balance :0,
+            tags : []
+        }
+    ]
+}
