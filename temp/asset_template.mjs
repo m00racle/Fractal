@@ -318,6 +318,22 @@ ledger = {
             tags : []
         },
         {
+            account_id : 21004,
+            account_name : "Hutang Pajak (akrual)", 
+            account_type : "KEWAJIBAN", 
+            account_subtype : "KEWAJIBAN LANCAR",
+            balance_side : "credit",
+            closing_type : "permanent",
+            status : 'active',
+            open_credit : 0,
+            open_debit : 0,
+            open_balance : 0,
+            close_credit : 0,
+            close_debit : 0,
+            close_balance :0,
+            tags : []
+        },
+        {
             account_id : 22001,
             account_name : "Hutang Jangka Panjang", 
             account_type : "KEWAJIBAN", 
