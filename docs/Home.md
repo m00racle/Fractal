@@ -92,4 +92,45 @@ firebase login
 firebase init emulators
 ```
 
+3. This will open the dialog on the CLI to setup the Firebase Emulator. 
+
+Note that I forgot how the options available for the Firebase emulator. 
+
 <!-- TODO: Review the code on the log file (docs) and put it in here-->
+
+4. Configure the Firestore emulator rules since by default it will be using the production setting which decline all writes and read in `firestore.rules`.
+
+<!-- TODO: I want the rules changed here to allow uid. this will be a challenge later on -->
+
+5. Start the Firebase emulators by running the following command.
+```
+firebase emulators:start
+```
+This will start all services selected in the configuration.
+
+### Test File
+Make file named `Home.test.js` inside the `__test__` folder. This will required us to 
+
+Install the dependency:
+```
+npm install --save-dev firebase-mock
+```
+#### WARNING:
+I haven't verify if the firebase-mock is what the Firebase use officially or not.
+
+#### GPT:
+The `firebase-mock` library is a JavaScript library that provides a mock implementation of the Firebase SDK. It allows you to write unit tests for Firebase-related code without needing to connect to the actual Firebase services or use the Firebase Emulator Suite.
+
+If you are using `firebase-mock` in your tests, you don't necessarily need to use the Firebase emulator. The purpose of the Firebase emulator is to provide a local development environment that emulates the Firebase services, allowing you to test and develop your application against the emulated services.
+
+However, there are some differences between using `firebase-mock` and the Firebase emulator:
+
+1. `firebase-mock` provides a lightweight, in-memory mock implementation of the Firebase SDK. It is suitable for writing isolated unit tests for Firebase-related code.
+
+2. The Firebase emulator provides a more comprehensive local development environment that emulates various Firebase services, such as Firestore, Realtime Database, Authentication, and Cloud Functions. It allows you to test your application end-to-end, including interactions between different Firebase services.
+
+If you only need to test specific Firebase-related code in isolation, using `firebase-mock` may be sufficient. However, if you want to test the integration and interactions between different Firebase services or have more comprehensive testing of your application, using the Firebase emulator can be beneficial.
+
+Consider your testing requirements and choose the approach that best fits your needs. If you primarily want to focus on front-end testing and isolate Firebase-related code, `firebase-mock` can be a good choice. If you need to test the interaction between your front-end code and emulated Firebase services, the Firebase emulator provides a more realistic testing environment.
+
+#### NOTE: mock-firebase failed
